@@ -1,4 +1,4 @@
-# laravel-angular-jwt-auth
+# Laravel Angular jwt-auth
 
 ## Start Laravel App
 * Enter inside the laravel API project folder. 
